@@ -76,7 +76,5 @@ Contributions are welcome! If you'd like to contribute to this project, please f
 3. Make your contributions.
 4. Create a pull request.
 
-## License
-This project is licensed under the [MIT License](LICENSE).
 
 Feel free to customize this README file to include additional information about your project or any specific instructions for your users. Providing clear and comprehensive documentation will help others understand and use your project effectively.
